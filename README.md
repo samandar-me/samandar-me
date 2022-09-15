@@ -1,4 +1,4 @@
-[![MasterHead](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblY2SW50Ym5aQVFjRUwtZy1hLS1hTUFJaUpXQXxBQ3Jtc0tuTk9wd0xscHF0bUFQMUZvWU1mOXYzM3UwSUdLYU9sZHdiemFFQzIwRTdtdU9vOVN4bVR3ZnlfdDg0MUNVN1gtU0VXRnhIN2xhU2k5U0UxRHdBcVVPRnR0Q2hIYVA2SWZvWGpXV2hfTFdxVkJsa3FVMA&q=https%3A%2F%2F1.bp.blogspot.com%2F-7A4WynwLsMw%2FXbBpCXG8fHI%2FAAAAAAAAMt4%2FuOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ%2Fs1600%2F2000_600px.gif&v=G-EGDH50hGE)](https://user-images.githubusercontent.com/95674842/190346283-9207f828-8652-4d1d-a8e6-e5ebec74cdc9.jpg)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://user-images.githubusercontent.com/95674842/190346283-9207f828-8652-4d1d-a8e6-e5ebec74cdc9.jpg)
 <h1 align="center">Hi 👋, I'm Samandar</h1>
 <h3 align="center">A android developer from Uzbekistan 💫</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">
