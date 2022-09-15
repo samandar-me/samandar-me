@@ -14,7 +14,7 @@ I am an Android developer 💻 with half a year of experience. Being an Android 
 
 
 ## 🤝Connect with me  
-<div align="center">
+<div align="start">
 <a href="https://linkedin.com/in/samandar-asiydinov-7a0718227/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
