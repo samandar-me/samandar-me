@@ -5,9 +5,9 @@
 
 
 ### Glad to see you here!  
-### **I am an Android Developer 💻 with half a year of experience. Being an Android Developer allows me to not only develop client-facing apps, but also develop them with state-of-the-art backend support. 🚁
-### I specialize in building robust backends that do all the heavy  lifting for your application. 
-### I love designing systems that are lightweight yet powerful, distributed yet synchronized, and beautiful yet efficient. I can also frequently apply system designs, databases, security, servers, optimization, as well as forward-looking technologies such as Clean Architecture and KMM**  
+#### **I am an Android Developer 💻 with half a year of experience. Being an Android Developer allows me to not only develop client-facing apps, but also develop them with state-of-the-art backend support. 🚁
+#### I specialize in building robust backends that do all the heavy  lifting for your application. 
+#### I love designing systems that are lightweight yet powerful, distributed yet synchronized, and beautiful yet efficient. I can also frequently apply system designs, databases, security, servers, optimization, as well as forward-looking technologies such as Clean Architecture and KMM**  
   
 
 <br/>   
@@ -79,7 +79,7 @@
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamandarAsiydinov&hide_border=true&layout=compact" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamandarAsiydinov&hide_border=true&layout=compact" align="left" style="width: 100%"  />
 
 </td></tr></table>  
 
@@ -87,15 +87,6 @@
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=SamandarAsiydinov&&style=flat-square)  
   
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=SamandarAsiydinov&&style=flat-square)  
-  
-
-<br/>  
-
-
 <br />
 
 ----
