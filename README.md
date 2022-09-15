@@ -66,34 +66,25 @@ I am an Android developer 💻 with half a year of experience. Being an Android 
 
 ## ⚒️Languages and Tools  
 <div align="center">  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="80" /></a>  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://media-exp1.licdn.com/dms/image/C5612AQH-rB_omxafiw/article-cover_image-shrink_720_1280/0/1643210129680?e=2147483647&v=beta&t=6HvNmY1udxoEQMKax6A0DxIIrWPbQrJdyDsQAaQYk5k" alt="Android" height="80" /></a>  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://tabris.com/wp-content/uploads/2021/06/jetpack-compose-icon_RGB.png" alt="Jetpack Compose" height="80" /></a>  
-<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/kotlin-2.svg" alt="Kotlin" height="80" /></a>
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="80" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="80" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="80" /></a>   
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="80" /></a>  
+<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="70" /></a>  
+<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://media-exp1.licdn.com/dms/image/C5612AQH-rB_omxafiw/article-cover_image-shrink_720_1280/0/1643210129680?e=2147483647&v=beta&t=6HvNmY1udxoEQMKax6A0DxIIrWPbQrJdyDsQAaQYk5k" alt="Android" height="70" /></a>  
+<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://tabris.com/wp-content/uploads/2021/06/jetpack-compose-icon_RGB.png" alt="Jetpack Compose" height="70" /></a>  
+<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/kotlin-2.svg" alt="Kotlin" height="70" /></a>
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="70" /></a>  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="70" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="70" /></a>   
 </div>  
 
 <br/>  
 
 
 ## 💹Github Stats  
-<table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SamandarAsiydinov&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 120%" />
+![](https://github-readme-stats.vercel.app/api?username=SamandarAsiydinov&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SamandarAsiydinov&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamandarAsiydinov&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-</td><td valign="top" width="50%">
+---
+[![](https://visitcount.itsvg.in/api?id=SamandarAsiydinov&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamandarAsiydinov&hide_border=true&layout=compact" align="left" style="width: 98%"  />
 
-</td></tr></table>  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=SamandarAsiydinov&&style=flat-square)  
-  
-<br />
-
-----
