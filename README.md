@@ -1,12 +1,16 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://user-images.githubusercontent.com/95674842/190346283-9207f828-8652-4d1d-a8e6-e5ebec74cdc9.jpg)
-## <div align="center">Hey 👋, I'm  Samandar</div>  
+# <div align="center">Hey 👋, I'm  Samandar</div>  
   
 
 
 
 ### Glad to see you here!  
-I’m a android developer. 
-💫  
+### **I am an Android Developer 💻 with half a year of experience. Being an Android Developer allows me to not only develop client-facing apps, but also develop them with state-of-the-art backend support. 🚁
+### I specialize in building robust backends that do all the heavy  lifting for your application. 
+### I love designing systems that are lightweight yet powerful, distributed yet synchronized, and beautiful yet efficient. I can also frequently apply system designs, databases, security, servers, optimization, as well as forward-looking technologies such as Clean Architecture and KMM**  
+  
+
+<br/>   
   
 
 
@@ -20,10 +24,7 @@ I’m a android developer.
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
 <br/>  
-
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
@@ -40,10 +41,15 @@ I’m a android developer.
 - ⚡ Fun fact: I keep night shift swithed on at all times   
 
 
+- 💬 How to reach me? (samandar.sha.asiydinov@gmail.com)  
+
+
+- 💥 Looking forward to collaborating with other developers.
+
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif" align="center" style="width: 100%" />
+<img src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif" align="center" style="width: 80%" />
 </div>  
 
 
