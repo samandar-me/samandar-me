@@ -41,7 +41,7 @@
 - ⚡ Fun fact: I keep night shift swithed on at all times   
 
 
-- 💬 How to reach me? (samandar.sha.asiydinov@gmail.com)  
+- 💬 How to reach me? (samandar.sh.asiydinov@gmail.com)  
 
 
 - 💥 Looking forward to collaborating with other developers.
