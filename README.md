@@ -5,9 +5,7 @@
 
 
 ## Glad to see you here ! 💫  
-I am an Android Developer 💻 with half a year of experience. Being an Android Developer allows me to not only develop client-facing apps, but also develop them with state-of-the-art backend support. 🚁
-I specialize in building robust backends that do all the heavy  lifting for your application. 
-I love designing systems that are lightweight yet powerful, distributed yet synchronized, and beautiful yet efficient. I can also frequently apply system designs, databases, security, servers, optimization, as well as forward-looking technologies such as Clean Architecture and KMM
+I am an Android developer 💻 with half a year of experience. Being an Android Developer allows me to not only develop client-facing apps, but also develop them with state-of-the-art backend support. 🚁 I specialize in creating robust backends for your app that do all the heavy lifting. 🔥 I love designing applications that are lightweight yet powerful, distributed yet synchronized, and beautiful yet efficient. I can use Jetpack Compose, Kotlin Coroutines, databases, security, servers, optimization, as well as promising technologies such as Clean Architecture and KMM🌟
   
 
 <br/>   
@@ -84,7 +82,7 @@ I love designing systems that are lightweight yet powerful, distributed yet sync
 ## 💹Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SamandarAsiydinov&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 85%" />
+<img src="https://github-readme-stats.vercel.app/api?username=SamandarAsiydinov&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 120%" />
 
 </td><td valign="top" width="50%">
 
