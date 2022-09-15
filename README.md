@@ -15,7 +15,7 @@
 
 
 
-## Connect with me  
+## 🤝Connect with me  
 <div align="center">
 <a href="https://linkedin.com/in/samandar-asiydinov-7a0718227/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -34,7 +34,7 @@
 </div>  
 <br/>  
 
-## Rapidfire  
+## 🔥Rapidfire
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working Jetpack Compose Apps  
@@ -66,7 +66,7 @@
 <br/>  
 
 
-## Languages and Tools  
+## ⚒️Languages and Tools  
 <div align="center">  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="100" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="90" /></a>  
@@ -80,7 +80,7 @@
 <br/>  
 
 
-## Github Stats  
+## 💹Github Stats  
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=SamandarAsiydinov&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
