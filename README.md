@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://user-images.githubusercontent.com/95674842/190346283-9207f828-8652-4d1d-a8e6-e5ebec74cdc9.jpg)
 <h1 align="center">Hi 👋, I'm Samandar</h1>
-<h3 align="center">A android developer from Uzbekistan 💫</h3>
+<h3 align="center">An android developer from Uzbekistan 💫</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samandarasiydinov&label=Profile%20views&color=0e75b6&style=flat" alt="samandarasiydinov" /> </p>
