@@ -46,10 +46,13 @@
 
 - 💥 Looking forward to collaborating with other developers.
 
+
+- 🚀 My telegram account (https://t.me/Samandar_sdk).
+
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif" align="center" style="width: 80%" />
+<img src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif" align="center" style="width: 85%" />
 </div>  
 
 
