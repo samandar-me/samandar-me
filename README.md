@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+![MasterHead](https://miro.medium.com/max/1400/0*dVlRfvc6b66esZkb)
 ## <div align="center">Hey 👋, I'm  Samandar</div>  
  
 ## Glad to see you here ! 💫  
