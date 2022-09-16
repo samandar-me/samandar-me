@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)]
+![MasterHead](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 ## <div align="center">Hey 👋, I'm  Samandar</div>  
  
 ## Glad to see you here ! 💫  
