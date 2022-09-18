@@ -2,7 +2,7 @@
 ## <div align="center">Hey 👋, I'm  Samandar</div>  
  
 ## Glad to see you here ! 💫  
-I am an Android developer 💻 with half a year of experience. Being an Android Developer allows me to not only develop client-facing apps, but also develop them with state-of-the-art backend support. 🚁 I specialize in creating robust backends for your app that do all the heavy lifting. 🔥 I love designing applications that are lightweight yet powerful, distributed yet synchronized, and beautiful yet efficient. I can use Jetpack Compose, Kotlin Coroutines, databases, security, servers, optimization, as well as promising technologies such as Clean Architecture and KMM🌟
+I am an Android developer 💻 with half a year of experience. Being an Android Developer allows me to not only develop client-facing apps, but also develop them with state-of-the-art backend support. 🚁 I specialize in creating robust applications that meet all modern requirements. 🔥 I love designing applications that are lightweight yet powerful, distributed yet synchronized, and beautiful yet efficient. I can use Jetpack Compose, Kotlin Coroutines, Databases, Security, Servers, Optimization, as well as forward-looking technologies like Clean Architecture and KMM🌟
 <br/>   
   
 ## 🤝Connect with me  
