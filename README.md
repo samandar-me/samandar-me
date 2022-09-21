@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-J9gESOgTPOQ/X9OzFds7fMI/AAAAAAAAP8c/-BDmURQHT2EygWDm297uDSW_ITJEZ3vugCLcBGAsYHQ/s0/Android-mad-skills-material-design-components-wrap-up-header.png)
+![MasterHead](https://9to5google.com/wp-content/uploads/sites/4/2020/06/android-developer-challenge-ml.png)
 ## <div align="center">Hey 👋, I'm  Samandar</div>  
  
 ## Glad to see you here ! 💫  
