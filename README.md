@@ -1,4 +1,4 @@
-![MasterHead](https://4.bp.blogspot.com/-3Y_7EfhyYGM/XxjIjIB5RkI/AAAAAAAAPTw/KGx1k9HSbuoKrEMBZMJGaN-bS6rkz-j7gCLcBGAsYHQ/s1600/Activity_Result.png)
+![MasterHead](https://miro.medium.com/max/1400/1*oXapXRXEn_fsPDNY--IRhw.png)
 ## <div align="center">Hey 👋, I'm  Samandar</div>  
  
 ## Glad to see you here !✨  
