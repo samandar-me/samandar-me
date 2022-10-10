@@ -32,4 +32,4 @@ I am an Android developer 💻 with half a year of experience. Being an Android 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=samandar-mee&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=samandar-mee&icon=5&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=samandar-mee&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
