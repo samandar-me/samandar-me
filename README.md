@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/max/1200/1*NOs7p4ZXaC4bGLd4NdRU-g.png)
+![MasterHead](https://1.bp.blogspot.com/-J9gESOgTPOQ/X9OzFds7fMI/AAAAAAAAP8c/-BDmURQHT2EygWDm297uDSW_ITJEZ3vugCLcBGAsYHQ/s0/Android-mad-skills-material-design-components-wrap-up-header.png)
 ## <div align="center">Hey 👋, I'm  Samandar</div>  
  
 ## Glad to see you here !✨  
