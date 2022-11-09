@@ -1,4 +1,7 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/95674842/200738032-6280bdd8-b2ad-41ad-9794-4f00338d5d10.png">
+</p>
+
 ## <div align="center">Hey 👋, I'm  Samandar</div>  
  
 ## Glad to see you here !✨  
