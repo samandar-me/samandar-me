@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://1.bp.blogspot.com/-J9gESOgTPOQ/X9OzFds7fMI/AAAAAAAAP8c/-BDmURQHT2EygWDm297uDSW_ITJEZ3vugCLcBGAsYHQ/s0/Android-mad-skills-material-design-components-wrap-up-header.png">
+  <img src="https://1.bp.blogspot.com/-9MiK78CFMLM/YQFurOq9AII/AAAAAAAAQ1A/lKj5GiDnO_MkPLb72XqgnvD5uxOsHO-eACLcBGAsYHQ/s0/Android-Compose-1.0-header-v2.png">
 </p>
 
 ## <div align="center">Hey 👋, I'm  Samandar</div>  
