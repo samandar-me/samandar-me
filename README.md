@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://1.bp.blogspot.com/-9MiK78CFMLM/YQFurOq9AII/AAAAAAAAQ1A/lKj5GiDnO_MkPLb72XqgnvD5uxOsHO-eACLcBGAsYHQ/s0/Android-Compose-1.0-header-v2.png">
+  <img src="https://user-images.githubusercontent.com/95674842/205238268-4fb9f597-37f7-45a0-82c9-e5e40e82167d.png">
 </p>
 
 ## <div align="center">Hey 👋, I'm  Samandar</div>  
