@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/95674842/205238268-4fb9f597-37f7-45a0-82c9-e5e40e82167d.png">
+  <img src="https://9to5google.com/wp-content/uploads/sites/4/2020/06/android-developer-challenge-ml.png">
 </p>
 
 ## <div align="center">Hey 👋, I'm  Samandar</div>  
