@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.winklix.com/blog/wp-content/uploads/2017/08/Android-Mobile-Application-Development.png">
+  <img src="https://user-images.githubusercontent.com/95674842/206628601-38e45838-f126-4e9b-b63b-063be490ff84.png">
 </p>
 
 ## <div align="center">Hey 👋, I'm  Samandar</div>  
