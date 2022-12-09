@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://9to5google.com/wp-content/uploads/sites/4/2020/06/android-developer-challenge-ml.png">
+  <img src="https://www.winklix.com/blog/wp-content/uploads/2017/08/Android-Mobile-Application-Development.png">
 </p>
 
 ## <div align="center">Hey 👋, I'm  Samandar</div>  
