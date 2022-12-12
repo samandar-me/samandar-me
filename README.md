@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/95674842/206628601-38e45838-f126-4e9b-b63b-063be490ff84.png">
+  <img src="https://user-images.githubusercontent.com/95674842/206971810-775f0ebf-6a50-4746-9aca-ac26ef7d1dc7.png">
 </p>
+
 
 ## <div align="center">Hey 👋, I'm  Samandar</div>  
  
