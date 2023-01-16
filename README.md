@@ -46,3 +46,8 @@ I am an Mobile developer 💻 with 9 months experience. Being an Software Develo
 <br>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samandar-mee&theme=great-gatsby&layout=compact&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+  <p align="center">
+  <img src="https://profile-counter.glitch.me/samandar-mee/count.svg">
+</p>
