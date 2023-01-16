@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/95674842/209433970-e1c85314-7f5b-4603-ab0d-2ef0490fc9cf.png" height="550" width="1800">
-</p>
-
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
 ## <div align="center">Hey 👋, I'm  Samandar</div>  
  
@@ -36,10 +33,6 @@ I am an Mobile developer 💻 with 9 months experience. Being an Software Develo
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-## 💹 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=samandar-mee&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=samandar-mee&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=samandar-mee&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=samandar-mee&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
