@@ -45,5 +45,6 @@ I am an Mobile developer 💻 with 9 months experience. Being an Software Develo
 </p>
 <br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&t)](https://github.com/anuraghazra/github-readme-stats)
 ---
 [![](https://visitcount.itsvg.in/api?id=samandar-mee&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
