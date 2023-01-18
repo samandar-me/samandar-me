@@ -1,4 +1,6 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/95674842/213082727-6f9ceeb5-27a9-4420-bf2a-60c6966b1a4c.jpg" height="550" width="1800">
+</p>
 
 ## <div align="center">Hey 👋, I'm  Samandar</div>  
  
