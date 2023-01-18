@@ -35,19 +35,6 @@ I am a Mobile developer 💻 with 9 months experience. Being an Software Develop
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
 ---
-
-<br/>
-<p align="left">
-  <a href="github.com/samandar-mee">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=samandar-mee&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=samandar-mee&theme=gruvbox&hide_border=true" />
-  </a>
-</p>
-<br>
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samandar-mee&theme=great-gatsby&layout=compact&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
-
----
   <p align="center">
   <img src="https://profile-counter.glitch.me/samandar-mee/count.svg">
 </p>
