@@ -40,3 +40,15 @@ I am a Mobile developer 💻 with 9 months experience. Being an Software Develop
   <p align="center">
   <img src="https://profile-counter.glitch.me/samandar-mee/count.svg">
 </p>
+
+<br/>
+<p align="center">
+  <a href="github.com/samandar-mee">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=samandar-mee&show_icons=true&theme=light&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=samandar-mee&theme=light&hide_border=true" />
+  </a>
+</p>
+<br>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samandar-mee&theme=light&layout=compact&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+
