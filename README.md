@@ -38,7 +38,7 @@ I am a Mobile developer 💻 with 9 months experience. Being an Software Develop
 
 ---
   <p align="center">
-  <img src="https://profile-counter.glitch.me/samandar-me/count.svg">
+  <img src="https://profile-counter.glitch.me/samandar-mee/count.svg">
 </p>
 
 <br/>
