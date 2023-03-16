@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://miro.medium.com/max/1200/1*NOs7p4ZXaC4bGLd4NdRU-g.png">
+    <img src="https://user-images.githubusercontent.com/95674842/225670769-e2c406a5-c19b-4a2f-87b7-0dcafa608619.png">
 </p>
 
 ## <div align="center">Hey 👋, I'm  Samandar</div>  
