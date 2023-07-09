@@ -1,16 +1,16 @@
 <p align="center">
-    <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png">
+    <img src="https://github.com/samandar-me/samandar-me/assets/95674842/adc0965e-862d-43d4-b72e-f3a025b6e225">
 </p>
 
 ## <div align="center">Hey 👋, I'm  Samandar</div>  
  
 ## Glad to see you here !✨  
-I am a Mobile developer 💻 with 12 months experience. Being an Software Developer allows me to not only develop ✨ client-facing apps, but also develop them with state-of-the-art backend support. 🚁 I specialize in creating robust applications that meet all modern requirements. 🔥 I love designing applications that are lightweight yet powerful, distributed yet synchronized, and beautiful yet efficient. 💙 I can use Jetpack Compose, Kotlin Coroutines, Databases, Security, Servers, Optimization, as well as forward-looking technologies like Android, IOS, Flutter and KMM🌟
+I am a Mobile developer 💻 with 1.4 years experience. Being an Software Developer allows me to not only develop ✨ client-facing apps, but also develop them with state-of-the-art backend support. 🚁 I specialize in creating robust applications that meet all modern requirements. 🔥 I love designing applications that are lightweight yet powerful, distributed yet synchronized, and beautiful yet efficient. 💙 I can use Jetpack Compose, Kotlin Coroutines, Databases, Security, Servers, Optimization, as well as forward-looking technologies like Android, IOS, Flutter and KMM🌟
 <br/>   
   
 ## 🤝 Connect with me  
 <div align="start">
-<a href="https://linkedin.com/in/samandar-asiydinov-7a0718227/" target="_blank">
+<a href="https://www.linkedin.com/in/samandar-sdk/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="samandar.sh.asiydinov@gmail.com" target="_blank">
@@ -28,11 +28,11 @@ I am a Mobile developer 💻 with 12 months experience. Being an Software Develo
 <br/>  
 
 ## ⚒️ Stack:
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 <a href='https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwi2rZvn5pj6AhVKR5EFHcs4D6sYABABGgJscg&ohost=www.google.com&cid=CAESbOD21cS7iVkFEpxYIzBZ14hDSdRZwjxtt6XjTVBX5kMUEH6PXOLX6_NAj51socW7NoiYXEXI49rMTg9TX8WfPFjxUmUguyqMQxIDkQM1kY6ZUIGfmZb2HL45p-9WbVNxczm3BPuw7N2_hFFdAw&sig=AOD64_1p8PNc3Iqs67yqnkr5nUP2XCazeg&q&adurl&ved=2ahUKEwiDzJXn5pj6AhWTzYsKHQ1GDzAQ0Qx6BAgDEAE' target="_blank"><img alt='Jetpack Compose' src='https://img.shields.io/badge/Jetpack_Compose-100000?style=for-the-badge&logo=Jetpack Compose&logoColor=087308&labelColor=101745&color=101745'/></a> 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
 ---
