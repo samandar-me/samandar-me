@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/samandar-me/samandar-me/assets/95674842/adc0965e-862d-43d4-b72e-f3a025b6e225">
+    <img src="https://github.com/samandar-me/samandar-me/assets/95674842/c0065299-8027-4674-8c60-a50d261489b3">
 </p>
 
 ## <div align="center">Hey 👋, I'm  Samandar</div>  
