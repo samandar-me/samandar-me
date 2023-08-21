@@ -28,13 +28,13 @@ I am a Mobile developer 💻 with 1.4 years experience. Being an Software Develo
 <br/>  
 
 ## ⚒️ Stack:
+<a href='https://www.jetbrains.com/lp/compose-multiplatform/' target="_blank"><img alt='Kotlin' src='https://img.shields.io/badge/Kotlin_Multiplatform-100000?style=for-the-badge&logo=Kotlin&logoColor=7F52FF&labelColor=000000&color=000000'/></a>
+<a href='https://www.jetbrains.com/lp/compose-multiplatform/' target="_blank"><img alt='Jetpack Compose' src='https://img.shields.io/badge/Compose_Multiplatform-100000?style=for-the-badge&logo=Jetpack Compose&logoColor=white&labelColor=4285F4&color=4285F4'/></a>
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+<a href='https://www.jetbrains.com/lp/compose-multiplatform/' target="_blank"><img alt='Kotlin' src='https://img.shields.io/badge/Kotlin_-100000?style=for-the-badge&logo=Kotlin&logoColor=FFFFFF&labelColor=7F52FF&color=7F52FF'/></a>
 <a href='https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwi2rZvn5pj6AhVKR5EFHcs4D6sYABABGgJscg&ohost=www.google.com&cid=CAESbOD21cS7iVkFEpxYIzBZ14hDSdRZwjxtt6XjTVBX5kMUEH6PXOLX6_NAj51socW7NoiYXEXI49rMTg9TX8WfPFjxUmUguyqMQxIDkQM1kY6ZUIGfmZb2HL45p-9WbVNxczm3BPuw7N2_hFFdAw&sig=AOD64_1p8PNc3Iqs67yqnkr5nUP2XCazeg&q&adurl&ved=2ahUKEwiDzJXn5pj6AhWTzYsKHQ1GDzAQ0Qx6BAgDEAE' target="_blank">
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-<img alt='Jetpack Compose' src='https://img.shields.io/badge/Jetpack_Compose-100000?style=for-the-badge&logo=Jetpack Compose&logoColor=087308&labelColor=101745&color=101745'/></a> 
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
 ---
   <p align="center">
