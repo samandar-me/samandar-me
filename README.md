@@ -1,11 +1,11 @@
 <p align="center">
-    <img src="https://github.com/samandar-me/samandar-me/assets/95674842/3529a0ed-6881-4525-967b-e2d9665e66ae">
+    <img src="https://github.com/samandar-me/samandar-me/assets/95674842/e887acce-fc8a-42e0-aaeb-2cc854c1dba8">
 </p>
 
 ## <div align="center">Hey 👋, I'm  Samandar</div>  
  
 ## Glad to see you here !✨  
-I am a Mobile developer 💻 with 1.4 years experience. Being an Software Developer allows me to not only develop ✨ client-facing apps, but also develop them with state-of-the-art backend support. 🚁 I specialize in creating robust applications that meet all modern requirements. 🔥 I love designing applications that are lightweight yet powerful, distributed yet synchronized, and beautiful yet efficient. 💙 I can use Jetpack Compose, Kotlin Coroutines, Databases, Security, Servers, Optimization, as well as forward-looking technologies like Android, IOS, Flutter and KMM🌟
+I am a Mobile developer 💻 with 1.8 years experience. Being an Software Developer allows me to not only develop ✨ client-facing apps, but also develop them with state-of-the-art backend support. 🚁 I specialize in creating robust applications that meet all modern requirements. 🔥 I love designing applications that are lightweight yet powerful, distributed yet synchronized, and beautiful yet efficient. 💙 I can use Jetpack Compose, Kotlin Coroutines, Databases, Security, Servers, Optimization, as well as forward-looking technologies like Android, IOS, Flutter and KMM🌟
 <br/>   
   
 ## 🤝 Connect with me  
