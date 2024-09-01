@@ -10,6 +10,9 @@ I am a Mobile developer 💻 with 2 years experience. Being an Software Develope
   
 ## 🤝 Connect with me  
 <div align="start">
+    <a href="https://youtube.com/@SamandarSdk" target="_blank">
+<img src=https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 <a href="https://www.linkedin.com/in/samandar-sdk/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
