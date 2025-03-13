@@ -37,6 +37,7 @@ I am a Mobile developer 💻 with 2 years experience. Being an Software Develope
 <a href='https://www.jetbrains.com/lp/compose-multiplatform/' target="_blank"><img alt='Kotlin' src='https://img.shields.io/badge/Kotlin_-100000?style=for-the-badge&logo=Kotlin&logoColor=FFFFFF&labelColor=7F52FF&color=7F52FF'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Coffeescript' src='https://img.shields.io/badge/Java-100000?style=for-the-badge&logo=Coffeescript&logoColor=white&labelColor=D36E30&color=D36E30'/></a>
 <a href='https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwi2rZvn5pj6AhVKR5EFHcs4D6sYABABGgJscg&ohost=www.google.com&cid=CAESbOD21cS7iVkFEpxYIzBZ14hDSdRZwjxtt6XjTVBX5kMUEH6PXOLX6_NAj51socW7NoiYXEXI49rMTg9TX8WfPFjxUmUguyqMQxIDkQM1kY6ZUIGfmZb2HL45p-9WbVNxczm3BPuw7N2_hFFdAw&sig=AOD64_1p8PNc3Iqs67yqnkr5nUP2XCazeg&q&adurl&ved=2ahUKEwiDzJXn5pj6AhWTzYsKHQ1GDzAQ0Qx6BAgDEAE' target="_blank">
+![Swift](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
@@ -44,15 +45,6 @@ I am a Mobile developer 💻 with 2 years experience. Being an Software Develope
   <p align="center">
   <img src="https://profile-counter.glitch.me/samandar-mee/count.svg">
 </p>
-
-<br/>
-<p align="center">
-  <a href="github.com/samandar-me">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=samandar-me&show_icons=true&theme=transparent&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=samandar-me&theme=transparent&hide_border=true" />
-  </a>
-</p>
-<br>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samandar-me&theme=transparent&layout=compact&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
