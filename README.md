@@ -47,7 +47,7 @@ I am a Mobile developer 💻 with 2 years experience. Being an Software Develope
 
 <br/>
 <p align="center">
-  <a href="github.com/samandar-mee">
+  <a href="github.com/samandar-me">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=samandar-me&show_icons=true&theme=transparent&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=samandar-me&theme=transparent&hide_border=true" />
   </a>
