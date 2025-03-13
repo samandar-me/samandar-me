@@ -24,10 +24,6 @@ I am a Mobile developer 💻 with 2 years experience. Being an Software Develope
 <img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white? alt=telegram style="margin-bottom: 5px;" />
 </a> 
 </a>
-<a href="https://play.google.com/store/apps/developer?id=Samandar+Sdk" target="_blank">
-<img src=https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white alt=playstore style="margin-bottom: 5px;" />
-</a> 
-</div>  
 <br/>  
 
 ## ⚒️ Stack:
@@ -37,9 +33,10 @@ I am a Mobile developer 💻 with 2 years experience. Being an Software Develope
 <a href='https://www.jetbrains.com/lp/compose-multiplatform/' target="_blank"><img alt='Kotlin' src='https://img.shields.io/badge/Kotlin_-100000?style=for-the-badge&logo=Kotlin&logoColor=FFFFFF&labelColor=7F52FF&color=7F52FF'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Coffeescript' src='https://img.shields.io/badge/Java-100000?style=for-the-badge&logo=Coffeescript&logoColor=white&labelColor=D36E30&color=D36E30'/></a>
 <a href='https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwi2rZvn5pj6AhVKR5EFHcs4D6sYABABGgJscg&ohost=www.google.com&cid=CAESbOD21cS7iVkFEpxYIzBZ14hDSdRZwjxtt6XjTVBX5kMUEH6PXOLX6_NAj51socW7NoiYXEXI49rMTg9TX8WfPFjxUmUguyqMQxIDkQM1kY6ZUIGfmZb2HL45p-9WbVNxczm3BPuw7N2_hFFdAw&sig=AOD64_1p8PNc3Iqs67yqnkr5nUP2XCazeg&q&adurl&ved=2ahUKEwiDzJXn5pj6AhWTzYsKHQ1GDzAQ0Qx6BAgDEAE' target="_blank">
-![Swift](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 ---
   <p align="center">
